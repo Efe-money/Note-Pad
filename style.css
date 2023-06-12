@@ -1,0 +1,49 @@
+
+.navItems{
+    gap: 25%;
+    background-color: black;
+}
+.navIcon svg{
+    width: 30px !important;
+    fill: white;
+}
+.navIcon{
+    fill: white !important;
+
+}
+.navList svg{
+    width: 35px;
+    fill: white;
+}
+.navTitle h5{
+    font-size: 20px;
+    font-weight: bolder;
+    font-style: oblique;
+    color: white;
+}
+
+
+
+
+
+.containerS{
+    width: 300px;
+    border: 1px solid white;
+    border-radius: 15px;
+}
+.noteInput{
+    color: white;
+}
+.noteInput2 input{
+    margin-left: -1.5px !important;
+    height: 10vh;
+    width: 250px !important ;
+    border-radius: 5px;
+    
+}
+.noteBtn button{
+    margin-left: 25% !important;
+    background-color: red;
+    color: white;
+    border-radius: 5px !important;
+}
